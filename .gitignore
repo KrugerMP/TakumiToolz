@@ -7,6 +7,26 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/main/Dotnet.gitignore
 
+# Exclude intellij
+*/.idea
+.idea
+*.iml
+*.ipr
+*.iws
+*.idea.TaukimiToolz.iml
+*.idea.TaukimiToolz.ipr
+*.idea.TaukimiToolz.iws
+*/.vscode
+.vscode
+.vscode/
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+.vscode/settings.json
+.vscode/ipch
+.vscode/ipch/
+.vscode/ipch/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
